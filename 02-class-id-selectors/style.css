@@ -11,6 +11,14 @@
     font-size: 36px;
 }
 
+/*
+    >> NOTE <<
+    .huge-text is a choice; technically outside the remit of the exercise.
+    Having placed one font-size in a class, it seemed apropos to place the other
+    in one too (in case it needed to be re-used elsewhere).
+    The same could be said for the font-weight in #num-4.
+*/
+
 #num-2 {
     color: rgb(27, 27, 218);
 }

@@ -4,3 +4,9 @@
     font-size: 20px;
     text-align: center;
 }
+
+/*
+    >> NOTES <<
+    It would have been more specific to use .container.text as the selector.
+    Other options were also available - see solution.css.
+*/
