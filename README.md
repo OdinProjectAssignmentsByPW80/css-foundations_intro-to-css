@@ -16,12 +16,207 @@ Exercises consisting of a series of CSS-related tasks.
  - ### [04 - Chaining Selectors &rArr;](./04-chaining-selectors/)
  - ### [05 - Descendant Combinator &rArr;](./05-descendant-combinator/)
 
-## Result
+## Results
 
-*Coming soon*
+<table>
 
-<!-- For a full live preview of the finished site in all its unimpressive, unstyled glory [click here &rArr;](https://pw80.github.io/odin-recipes/)
+<tr>
+<td>
 
-Alternatively, please enjoy this image of an example page:
+### 01 - CSS Methods
 
-![image of a recipe page](./img/live_page.png) -->
+</td>
+<td></td>
+<td></td>
+
+<tr>
+<td>
+
+#### UNSTYLED
+
+</td>
+<td></td>
+<td>
+
+#### STYLED
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![css methods unstyled](./img/unstyled1.png)
+
+</td>
+<td>
+<h1>&rArr;</h1>
+</td>
+<td>
+
+![css methods styled](./img/styled1.png)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 02 - Class ID Selectors
+
+</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>
+
+#### UNSTYLED
+
+</td>
+<td></td>
+<td>
+
+#### STYLED
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![css methods unstyled](./img/unstyled2.png)
+
+</td>
+<td>
+<h1>&rArr;</h1>
+</td>
+<td>
+
+![css methods styled](./img/styled2.png)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 03 - Grouping Selectors
+
+</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>
+
+#### UNSTYLED
+
+</td>
+<td></td>
+<td>
+
+#### STYLED
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![grouping selectors unstyled](./img/unstyled3.png)
+
+</td>
+<td>
+<h1>&rArr;</h1>
+</td>
+<td>
+
+![grouping selectors styled](./img/styled3.png)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 04 - Chaining Selectors
+
+</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>
+
+#### UNSTYLED
+
+</td>
+<td></td>
+<td>
+
+#### STYLED
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![chaining selectors unstyled](./img/unstyled4.png)
+
+</td>
+<td>
+<h1>&rArr;</h1>
+</td>
+<td>
+
+![chaining selectors styled](./img/styled4.png)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 05 - Descendant Combinator
+
+</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>
+
+#### UNSTYLED
+
+</td>
+<td></td>
+<td>
+
+#### STYLED
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+![descendant combinator unstyled](./img/unstyled5.png)
+
+</td>
+<td>
+<h1>&rArr;</h1>
+</td>
+<td>
+
+![descendant combinator styled](./img/styled5.png)
+
+</td>
+</tr>
+
+</table>
