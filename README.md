@@ -21,13 +21,14 @@ Exercises consisting of a series of CSS-related tasks.
 <table>
 
 <tr>
-<td>
+<td width="47%">
 
 ### 01 - CSS Methods
 
 </td>
-<td></td>
-<td></td>
+<td width="6%"></td>
+<td width="47%"></td>
+</tr>
 
 <tr>
 <td>
@@ -49,7 +50,7 @@ Exercises consisting of a series of CSS-related tasks.
 ![css methods unstyled](./img/unstyled1.png)
 
 </td>
-<td>
+<td align="center">
 <h1>&rArr;</h1>
 </td>
 <td>
@@ -89,7 +90,7 @@ Exercises consisting of a series of CSS-related tasks.
 ![css methods unstyled](./img/unstyled2.png)
 
 </td>
-<td>
+<td align="center">
 <h1>&rArr;</h1>
 </td>
 <td>
@@ -129,7 +130,7 @@ Exercises consisting of a series of CSS-related tasks.
 ![grouping selectors unstyled](./img/unstyled3.png)
 
 </td>
-<td>
+<td align="center">
 <h1>&rArr;</h1>
 </td>
 <td>
@@ -169,7 +170,7 @@ Exercises consisting of a series of CSS-related tasks.
 ![chaining selectors unstyled](./img/unstyled4.png)
 
 </td>
-<td>
+<td align="center">
 <h1>&rArr;</h1>
 </td>
 <td>
@@ -209,7 +210,7 @@ Exercises consisting of a series of CSS-related tasks.
 ![descendant combinator unstyled](./img/unstyled5.png)
 
 </td>
-<td>
+<td align="center">
 <h1>&rArr;</h1>
 </td>
 <td>
