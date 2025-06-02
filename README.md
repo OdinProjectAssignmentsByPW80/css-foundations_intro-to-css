@@ -10,11 +10,11 @@ Exercises consisting of a series of CSS-related tasks.
 
 ## Assignment Instructions
 
- - ### [01 - CSS Methods &rArr;](./01-css-methods/)
- - ### [02 - Class ID Selectors &rArr;](./02-class-id-selectors/)
- - ### [03 - Grouping Selectors &rArr;](./03-grouping-selectors/)
- - ### [04 - Chaining Selectors &rArr;](./04-chaining-selectors/)
- - ### [05 - Descendant Combinator &rArr;](./05-descendant-combinator/)
+ -  [01 - CSS Methods &rArr;](./01-css-methods/)
+ - [02 - Class ID Selectors &rArr;](./02-class-id-selectors/)
+ - [03 - Grouping Selectors &rArr;](./03-grouping-selectors/)
+ - [04 - Chaining Selectors &rArr;](./04-chaining-selectors/)
+ - [05 - Descendant Combinator &rArr;](./05-descendant-combinator/)
 
 ## Results
 
